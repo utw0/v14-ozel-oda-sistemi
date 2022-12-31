@@ -1,0 +1,14 @@
+{
+"token":"",
+"mongo":"",
+    "developers": [
+        "341592492224806914"
+    ],
+    "colors": {
+        "primary": "#a925d9",
+        "success": "#71cd40",
+        "danger": "#e74c3c",
+        "warning": "#e6ab0b",
+        "hidden": "#2f3136"
+    }
+}
