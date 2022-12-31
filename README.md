@@ -1,6 +1,10 @@
 # v14-ozel-oda-sistemi
-v14 özel oda sistemi
-Sorun, bilgi veya bot için luhux#1847
+- Soru ve bot hakkında sorunlar için:  `luhux#1847`
+
+```bash
+> Discord özel oda sistemi
+```
+
 # Görseller
 ![image](https://user-images.githubusercontent.com/74924310/209652325-2e14ec09-797b-4814-b1c2-9603ab643c32.png)<br>
 ![image](https://user-images.githubusercontent.com/74924310/209652330-b6d825a8-1cdb-4c56-bdbe-971271622691.png)<br>
